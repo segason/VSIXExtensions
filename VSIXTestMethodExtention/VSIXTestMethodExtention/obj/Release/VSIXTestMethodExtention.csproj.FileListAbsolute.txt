@@ -1,0 +1,14 @@
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\bin\Release\TestMethodSnippets\TestMethodSnippets.pkgdef
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\bin\Release\TestMethodSnippets\TestMethodSnippets.snippet
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\bin\Release\VSIXTestMethodExtention.vsix
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\bin\Release\extension.vsixmanifest
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.csproj.AssemblyReference.cache
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\_EmptyResource.resources
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.csproj.GenerateResource.cache
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.csproj.CoreCompileInputs.cache
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.dll
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\VSIXTestMethodExtention.pdb
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\extension.vsixmanifest
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\files.json
+C:\Users\ibrasesa\source\repos\Projects\VSIXTestMethodExtention\VSIXTestMethodExtention\obj\Release\createTemplateManifests.cache
